@@ -1,4 +1,4 @@
-#Performance and Efficiency Comparison of VGG19 and EfficientNetV2 for Indonesian Batik Motif Classification
+# Performance and Efficiency Comparison of VGG19 and EfficientNetV2 for Indonesian Batik Motif Classification
 __________________________________________________________________________________________________________________________________________________________________________________
 Keywords: Batik Motif Classification, Convolutional Neural Networks, Deep Learning, EfficientNetV2, VGG19, Computational Efficiency.
 ABSTRACT (Abel)
