@@ -1,2 +1,6 @@
-# FINALPROJECTSML
-Performance and Efficiency Comparison of VGG19 and EfficientNetV2 for Indonesian Batik Motif Classification
+#Performance and Efficiency Comparison of VGG19 and EfficientNetV2 for Indonesian Batik Motif Classification
+__________________________________________________________________________________________________________________________________________________________________________________
+Keywords: Batik Motif Classification, Convolutional Neural Networks, Deep Learning, EfficientNetV2, VGG19, Computational Efficiency.
+ABSTRACT (Abel)
+__________________________________________________________________________________________________________________________________________________________________________________
+Indonesian batik motifs represent a complex cultural heritage with diverse patterns closely tied to their geographic origins. Automating the classification of these intricate motifs aids digital preservation and quality control in production. This study enhances the annaamikom batik dataset by adding new motif categories identified by their names and origins to foster a more comprehensive classification benchmark. Two convolutional neural network models, VGG19 (Singh & Singh, 2020) and EfficientNetV2 (Tan & Le, 2021), are evaluated for accuracy and computational efficiency on this extended dataset. Results reveal that EfficientNetV2 surpasses VGG19 in both metrics, underscoring its practicality for real-world cultural heritage applications. This work advances automated batik motif classification and contributes a richer dataset for continued research
